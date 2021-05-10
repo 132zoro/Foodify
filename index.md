@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Foodify](https://132zoro.github.io/Foodify/)
+[Foodify](Foodify.html)
 
 You can use the [editor on GitHub](https://github.com/132zoro/Foodify/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
