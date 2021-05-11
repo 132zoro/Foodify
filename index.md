@@ -1,6 +1,12 @@
 ## Welcome to GitHub Pages
 
-[Foodify](Foodify.html)
+1. [Foodify](Foodify.html) <br>
+2. [LogIn](login.html)     <br>
+3. [Logout](logout.html)   <br>
+4. [search](search.html)   <br>
+5. [browse](browse.html)   <br>
+6. [pay](pay.html)         
+
 
 You can use the [editor on GitHub](https://github.com/132zoro/Foodify/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
